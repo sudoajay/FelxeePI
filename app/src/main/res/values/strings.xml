@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+        <!-- Home Menu Text -->
+    <string name= "help_menu">Help</string>
+
+
+    <!--Search not found-->
+    <string name="search_not_found">Oops, No Item is Connected!!</string>
+    <string name="search_not_found_text">Try rewording your search or entering a new keyword</string>
+</resources>
